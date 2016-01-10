@@ -10,7 +10,7 @@ def process():
     parser.add_argument('--origin', help="origin" , default = 'London')
     parser.add_argument('--dest', help = "destination", default = 'Oxford')
     parser.add_argument('--nsteps', help = 'number of points inbetween, default 10', type=int, default = 10 )
-    parser.add_argument('--output', help = 'Output file name', default = False)
+    parser.add_argument('--output', help = 'Output file name, use "*.png"', default = False)
     arguments= parser.parse_args()
     
     plt.close()
