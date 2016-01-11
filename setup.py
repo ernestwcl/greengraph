@@ -7,7 +7,7 @@ setup(
 	description = "Python assignment",
 	author = "Ernest Lo",
 	packages = find_packages(exclude=['*test']),
-	scripts = ['scripts/run'],
+	scripts = ['scripts/run.py'],
 	install_requires = ['geopy','numpy','matplotlib','requests','argparse']
 	)
 	

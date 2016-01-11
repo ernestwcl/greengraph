@@ -32,4 +32,4 @@ def test_location_sequence():
 		    long = fixt.pop('long')		    
 		    Trial = Greengraph(0.0,0.0)
 		    answer = Trial.location_sequence(Trial.geolocate(orig),Trial.geolocate(dest),step)
-		    assert(answer[fixt][1]==long and answer[fixt][o]==lat)	
+		    assert(answer[fixt][1]==long and answer[fixt][0]==lat)	
