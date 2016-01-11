@@ -1,6 +1,6 @@
 
 import numpy as np
-from matplotlib import iamge as img
+from matplotlib import image as img
 import requests
 from StringIO import StringIO
 
