@@ -1,0 +1,11 @@
+- orig: London
+  dest: Hong kong
+  step: 1
+  lat: 51.5073509
+  long: -0.1277583
+  
+- orig: London
+  dest: Hong Kong
+  step: 2
+  lat: 22.2783151
+  long: 114.174695

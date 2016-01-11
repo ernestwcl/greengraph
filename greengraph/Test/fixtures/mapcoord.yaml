@@ -1,13 +1,16 @@
 
-London:
-  - 51.5073509
-  - -0.1277583
-Hong Kong:
-  - 22.2783151
-  - 114.174695
-Tokyo:
-  - 35.6894875
-  - 139.6917064
-Stockholm:
-  - 59.3293235
-  - 18.0685808
+-location: "London"
+ lat: 51.5073509
+ long: -0.1277583
+
+-location: "Hong Kong"
+ lat: 22.2783151
+ long:114.174695
+
+-location: "Tokyo"
+ lat: 35.6894875
+ long: 139.6917064
+
+-location: "Stockholm"
+ lat: 59.3293235
+ long: 18.0685808
